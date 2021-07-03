@@ -1,0 +1,8 @@
+In order to get disjunct training and testing datasets - these PDB ids were obtained using comparer.py and all were removed from dataset ManyXtal.txt.
+
+
+#3kk8 
+#2z6o
+#2x26 
+#3m66
+#1lqt
