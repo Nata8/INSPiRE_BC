@@ -1,18 +1,29 @@
+import os
 
 DATASETS_DIR = "datasets/"
 DC_FILES = ["DCBio.txt", "DCxtal.txt"]
 MANY_FILES = ["ManyBio.txt", "ManyXtal.txt"]
 
 
-if __name__ == "__main__":
-    for dc_file in DC_FILES:
-        with open(DATASETS_DIR + dc_file) as dc:
-            for many_file in MANY_FILES:
-                with open(DATASETS_DIR + many_file) as many:
-                    dc = [protein.split()[0] for protein in dc if not protein.startswith("#")]
-                    many = [protein.split()[0] for protein in many if not protein.startswith("#")]
-                    same = set(dc).intersection(many)
+def get_duplicates(filename):
+    duplicates = []
+    with open(DATASETS_DIR + filename) as f:
+        lines = [line.split()[0].replace("\n", "").strip() for line in f if not line.startswith("#")]
+        for index, line in enumerate(lines):
+            if not line.startswith("#"):
+                count = lines.count(line)
+                #print(count)
+                t = (count, line, filename)
+                if count > 1 and t not in duplicates:
+                    duplicates.append(t)
+                    lines[index] = "\n"
+
+        if duplicates:
+            with open(DATASETS_DIR + filename, "w") as fw:
+                filtred_lines = filter(lambda value: value != "\n", lines)
+                fw.write("\n".join(filtred_lines))
     
-    for line in same:
-        print(line)
+    duplicates.sort()
+
+    return duplicates
 
