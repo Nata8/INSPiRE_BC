@@ -1,0 +1,11 @@
+Some PDB structures from Many dataset are obsolete and were removed from distribution of released PDB entries. They were all replaced. 
+
+3bbr replaced by 4xc4
+3uwr --> 5ej2
+3ef7 --> 5cnp
+2hcy --> 4w6z
+3mw9 --> 6dhm
+3tu2 --> 4hcl
+4njz --> 6ypx
+4k2w --> 4yet
+3dlo --> 6hcd
