@@ -2,7 +2,7 @@ Some PDB structures from Many dataset are obsolete and were removed from distrib
 
 3bbr replaced by 4xc4
 3uwr --> 5ej2
-3ef7 --> 5cnp
+3eg7 --> 5cnp
 2hcy --> 4w6z
 3mw9 --> 6dhm
 3tu2 --> 4hcl
