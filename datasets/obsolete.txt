@@ -1,4 +1,7 @@
-Some PDB structures from Many dataset are obsolete and were removed from distribution of released PDB entries. They were all replaced. 
+Some PDB structures from Many dataset are obsolete and were removed from distribution of released PDB entries.
+
+
+BIO:
 
 3bbr replaced by 4xc4
 3uwr --> 5ej2
@@ -9,3 +12,15 @@ Some PDB structures from Many dataset are obsolete and were removed from distrib
 4njz --> 6ypx
 4k2w --> 4yet
 3dlo --> 6hcd
+
+XTAL: 
+
+4m7n --> no replacement
+2bpt --> 5own
+4i8e --> 5iuc
+3dma --> 4py9
+2elf --> 3wnb
+4eln --> 6kly
+2o37 --> 4rwu
+4igz --> 5vei
+2goi --> 4yf2
