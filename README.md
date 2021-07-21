@@ -5,4 +5,5 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 **REQUIREMENTS:** <br />
 [INSPiRE](https://github.com/Jelinek-J/INSPiRE) <br />
 [Python version 3.7.9](https://www.python.org/) <br />
+[Biopython](https://biopython.org/) <br />
 
