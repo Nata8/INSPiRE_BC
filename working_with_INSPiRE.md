@@ -3,11 +3,11 @@ In this section, there are used commands for the INSPiRE classifier.
 
 For more info enter man inspire.
 
-- s<PATH-TO-PROTEIN>  Path  to  a  protein  or  a  directory  with  proteins  that  should  be used.
-- x<TEMP-DIR>  Path to a directory, where to store temporary files.
-- k<KNOWLEDGE-BASE> Path to a directory, where is/ should be stored a knowledge-base.
-- m Construction mode: knowledge-base will be constructed instead of used for prediction.
--i<RADDI-FILE, distance> Redefines  radii  of  chemical  elements  using  RADII-FILE  and optionally DISTANCE resets the maximal
+- -s<PATH-TO-PROTEIN>  Path  to  a  protein  or  a  directory  with  proteins  that  should  be used.
+- -x<TEMP-DIR>  Path to a directory, where to store temporary files.
+- -k<KNOWLEDGE-BASE> Path to a directory, where is/ should be stored a knowledge-base.
+- -m Construction mode: knowledge-base will be constructed instead of used for prediction.
+- -i<RADDI-FILE, distance> Redefines  radii  of  chemical  elements  using  RADII-FILE  and optionally DISTANCE resets the maximal
                           allowed distance of two radiuses.
 -q<OUTPUT-PATH> Where  to  store  output file.
  
