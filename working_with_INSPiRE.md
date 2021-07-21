@@ -1,7 +1,7 @@
 In this section, there are used commands for the INSPiRE classifier.
 
 
-For more info enter man inspire.
+For more info enter **man inspire**.
 
 - -s<PATH-TO-PROTEIN>  Path  to  a  protein  or  a  directory  with  proteins  that  should  be used.
 - -x<TEMP-DIR>  Path to a directory, where to store temporary files.
