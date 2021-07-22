@@ -1,0 +1,786 @@
+{
+    "3CM3": {
+        "total_count": 164,
+        "N": {
+            "count": 143,
+            "percentage": 87.2
+        },
+        "I": {
+            "count": 21,
+            "percentage": 12.8
+        }
+    },
+    "2BHS": {
+        "total_count": 1165,
+        "N": {
+            "count": 952,
+            "percentage": 81.72
+        },
+        "I": {
+            "count": 213,
+            "percentage": 18.28
+        }
+    },
+    "2BZ6": {
+        "total_count": 307,
+        "N": {
+            "count": 246,
+            "percentage": 80.13
+        },
+        "I": {
+            "count": 61,
+            "percentage": 19.87
+        }
+    },
+    "2WTM": {
+        "total_count": 985,
+        "N": {
+            "count": 806,
+            "percentage": 81.83
+        },
+        "I": {
+            "count": 179,
+            "percentage": 18.17
+        }
+    },
+    "3A2Q": {
+        "total_count": 482,
+        "N": {
+            "count": 415,
+            "percentage": 86.1
+        },
+        "I": {
+            "count": 67,
+            "percentage": 13.9
+        }
+    },
+    "2WXD": {
+        "total_count": 499,
+        "N": {
+            "count": 430,
+            "percentage": 86.17
+        },
+        "I": {
+            "count": 69,
+            "percentage": 13.83
+        }
+    },
+    "1P5F": {
+        "total_count": 186,
+        "I": {
+            "count": 22,
+            "percentage": 11.83
+        },
+        "N": {
+            "count": 164,
+            "percentage": 88.17
+        }
+    },
+    "3ITF": {
+        "total_count": 222,
+        "N": {
+            "count": 195,
+            "percentage": 87.84
+        },
+        "I": {
+            "count": 27,
+            "percentage": 12.16
+        }
+    },
+    "1PKH": {
+        "total_count": 357,
+        "N": {
+            "count": 318,
+            "percentage": 89.08
+        },
+        "I": {
+            "count": 39,
+            "percentage": 10.92
+        }
+    },
+    "2VR4": {
+        "total_count": 1677,
+        "N": {
+            "count": 1427,
+            "percentage": 85.09
+        },
+        "I": {
+            "count": 250,
+            "percentage": 14.91
+        }
+    },
+    "2AQ6": {
+        "total_count": 286,
+        "N": {
+            "count": 209,
+            "percentage": 73.08
+        },
+        "I": {
+            "count": 77,
+            "percentage": 26.92
+        }
+    },
+    "2D0D": {
+        "total_count": 271,
+        "N": {
+            "count": 221,
+            "percentage": 81.55
+        },
+        "I": {
+            "count": 50,
+            "percentage": 18.45
+        }
+    },
+    "1UJ6": {
+        "total_count": 225,
+        "N": {
+            "count": 225,
+            "percentage": 100.0
+        }
+    },
+    "3R0N": {
+        "total_count": 128,
+        "I": {
+            "count": 20,
+            "percentage": 15.62
+        },
+        "N": {
+            "count": 108,
+            "percentage": 84.38
+        }
+    },
+    "2A5L": {
+        "total_count": 346,
+        "N": {
+            "count": 273,
+            "percentage": 78.9
+        },
+        "I": {
+            "count": 73,
+            "percentage": 21.1
+        }
+    },
+    "1UZ3": {
+        "total_count": 199,
+        "N": {
+            "count": 126,
+            "percentage": 63.32
+        },
+        "I": {
+            "count": 73,
+            "percentage": 36.68
+        }
+    },
+    "2I7D": {
+        "total_count": 385,
+        "N": {
+            "count": 339,
+            "percentage": 88.05
+        },
+        "I": {
+            "count": 46,
+            "percentage": 11.95
+        }
+    },
+    "1KQ3": {
+        "total_count": 364,
+        "N": {
+            "count": 364,
+            "percentage": 100.0
+        }
+    },
+    "3KD2": {
+        "total_count": 1172,
+        "N": {
+            "count": 1005,
+            "percentage": 85.75
+        },
+        "I": {
+            "count": 167,
+            "percentage": 14.25
+        }
+    },
+    "2AB0": {
+        "total_count": 390,
+        "N": {
+            "count": 322,
+            "percentage": 82.56
+        },
+        "I": {
+            "count": 68,
+            "percentage": 17.44
+        }
+    },
+    "2RKB": {
+        "total_count": 1590,
+        "N": {
+            "count": 1386,
+            "percentage": 87.17
+        },
+        "I": {
+            "count": 204,
+            "percentage": 12.83
+        }
+    },
+    "3GUS": {
+        "total_count": 417,
+        "N": {
+            "count": 338,
+            "percentage": 81.06
+        },
+        "I": {
+            "count": 79,
+            "percentage": 18.94
+        }
+    },
+    "2VVT": {
+        "total_count": 535,
+        "N": {
+            "count": 446,
+            "percentage": 83.36
+        },
+        "I": {
+            "count": 89,
+            "percentage": 16.64
+        }
+    },
+    "3JRZ": {
+        "total_count": 99,
+        "N": {
+            "count": 66,
+            "percentage": 66.67
+        },
+        "I": {
+            "count": 33,
+            "percentage": 33.33
+        }
+    },
+    "3H0N": {
+        "total_count": 184,
+        "N": {
+            "count": 153,
+            "percentage": 83.15
+        },
+        "I": {
+            "count": 31,
+            "percentage": 16.85
+        }
+    },
+    "2E7J": {
+        "total_count": 688,
+        "N": {
+            "count": 594,
+            "percentage": 86.34
+        },
+        "I": {
+            "count": 94,
+            "percentage": 13.66
+        }
+    },
+    "2Y39": {
+        "total_count": 110,
+        "N": {
+            "count": 89,
+            "percentage": 80.91
+        },
+        "I": {
+            "count": 21,
+            "percentage": 19.09
+        }
+    },
+    "1N8P": {
+        "total_count": 1572,
+        "N": {
+            "count": 1242,
+            "percentage": 79.01
+        },
+        "I": {
+            "count": 330,
+            "percentage": 20.99
+        }
+    },
+    "3O1N": {
+        "total_count": 498,
+        "N": {
+            "count": 439,
+            "percentage": 88.15
+        },
+        "I": {
+            "count": 59,
+            "percentage": 11.85
+        }
+    },
+    "1O17": {
+        "total_count": 1365,
+        "N": {
+            "count": 1252,
+            "percentage": 91.72
+        },
+        "I": {
+            "count": 113,
+            "percentage": 8.28
+        }
+    },
+    "1VK5": {
+        "total_count": 121,
+        "N": {
+            "count": 119,
+            "percentage": 98.35
+        },
+        "I": {
+            "count": 2,
+            "percentage": 1.65
+        }
+    },
+    "1S2Z": {
+        "total_count": 190,
+        "N": {
+            "count": 157,
+            "percentage": 82.63
+        },
+        "I": {
+            "count": 33,
+            "percentage": 17.37
+        }
+    },
+    "3IUE": {
+        "total_count": 566,
+        "N": {
+            "count": 497,
+            "percentage": 87.81
+        },
+        "I": {
+            "count": 69,
+            "percentage": 12.19
+        }
+    },
+    "1JQ5": {
+        "total_count": 366,
+        "I": {
+            "count": 88,
+            "percentage": 24.04
+        },
+        "N": {
+            "count": 278,
+            "percentage": 75.96
+        }
+    },
+    "1BS1": {
+        "total_count": 224,
+        "N": {
+            "count": 190,
+            "percentage": 84.82
+        },
+        "I": {
+            "count": 34,
+            "percentage": 15.18
+        }
+    },
+    "2C4W": {
+        "total_count": 168,
+        "N": {
+            "count": 137,
+            "percentage": 81.55
+        },
+        "I": {
+            "count": 31,
+            "percentage": 18.45
+        }
+    },
+    "3OVP": {
+        "total_count": 443,
+        "N": {
+            "count": 378,
+            "percentage": 85.33
+        },
+        "I": {
+            "count": 65,
+            "percentage": 14.67
+        }
+    },
+    "3H6D": {
+        "total_count": 144,
+        "N": {
+            "count": 63,
+            "percentage": 43.75
+        },
+        "I": {
+            "count": 81,
+            "percentage": 56.25
+        }
+    },
+    "4U0J": {
+        "total_count": 268,
+        "N": {
+            "count": 221,
+            "percentage": 82.46
+        },
+        "I": {
+            "count": 47,
+            "percentage": 17.54
+        }
+    },
+    "2CAR": {
+        "total_count": 390,
+        "I": {
+            "count": 49,
+            "percentage": 12.56
+        },
+        "N": {
+            "count": 341,
+            "percentage": 87.44
+        }
+    },
+    "3JYO": {
+        "total_count": 282,
+        "N": {
+            "count": 248,
+            "percentage": 87.94
+        },
+        "I": {
+            "count": 34,
+            "percentage": 12.06
+        }
+    },
+    "3D36": {
+        "total_count": 480,
+        "N": {
+            "count": 402,
+            "percentage": 83.75
+        },
+        "I": {
+            "count": 78,
+            "percentage": 16.25
+        }
+    },
+    "2V52": {
+        "total_count": 390,
+        "N": {
+            "count": 379,
+            "percentage": 97.18
+        },
+        "I": {
+            "count": 11,
+            "percentage": 2.82
+        }
+    },
+    "3EPW": {
+        "total_count": 652,
+        "N": {
+            "count": 569,
+            "percentage": 87.27
+        },
+        "I": {
+            "count": 83,
+            "percentage": 12.73
+        }
+    },
+    "1ZLH": {
+        "total_count": 375,
+        "N": {
+            "count": 364,
+            "percentage": 97.07
+        },
+        "I": {
+            "count": 11,
+            "percentage": 2.93
+        }
+    },
+    "1QOP": {
+        "total_count": 655,
+        "N": {
+            "count": 558,
+            "percentage": 85.19
+        },
+        "I": {
+            "count": 97,
+            "percentage": 14.81
+        }
+    },
+    "1SML": {
+        "total_count": 266,
+        "N": {
+            "count": 233,
+            "percentage": 87.59
+        },
+        "I": {
+            "count": 33,
+            "percentage": 12.41
+        }
+    },
+    "2NZL": {
+        "total_count": 339,
+        "I": {
+            "count": 61,
+            "percentage": 17.99
+        },
+        "N": {
+            "count": 278,
+            "percentage": 82.01
+        }
+    },
+    "1JU3": {
+        "total_count": 570,
+        "N": {
+            "count": 492,
+            "percentage": 86.32
+        },
+        "I": {
+            "count": 78,
+            "percentage": 13.68
+        }
+    },
+    "1LW4": {
+        "total_count": 1373,
+        "I": {
+            "count": 180,
+            "percentage": 13.11
+        },
+        "N": {
+            "count": 1193,
+            "percentage": 86.89
+        }
+    },
+    "1ZE3": {
+        "total_count": 443,
+        "I": {
+            "count": 148,
+            "percentage": 33.41
+        },
+        "N": {
+            "count": 295,
+            "percentage": 66.59
+        }
+    },
+    "1R5Y": {
+        "total_count": 361,
+        "N": {
+            "count": 308,
+            "percentage": 85.32
+        },
+        "I": {
+            "count": 53,
+            "percentage": 14.68
+        }
+    },
+    "2VEF": {
+        "total_count": 554,
+        "N": {
+            "count": 470,
+            "percentage": 84.84
+        },
+        "I": {
+            "count": 84,
+            "percentage": 15.16
+        }
+    },
+    "2Y27": {
+        "total_count": 852,
+        "I": {
+            "count": 120,
+            "percentage": 14.08
+        },
+        "N": {
+            "count": 732,
+            "percentage": 85.92
+        }
+    },
+    "1LZL": {
+        "total_count": 317,
+        "N": {
+            "count": 281,
+            "percentage": 88.64
+        },
+        "I": {
+            "count": 36,
+            "percentage": 11.36
+        }
+    },
+    "2G2U": {
+        "total_count": 430,
+        "N": {
+            "count": 361,
+            "percentage": 83.95
+        },
+        "I": {
+            "count": 69,
+            "percentage": 16.05
+        }
+    },
+    "2W6A": {
+        "total_count": 117,
+        "N": {
+            "count": 91,
+            "percentage": 77.78
+        },
+        "I": {
+            "count": 26,
+            "percentage": 22.22
+        }
+    },
+    "3DA8": {
+        "total_count": 418,
+        "I": {
+            "count": 59,
+            "percentage": 14.11
+        },
+        "N": {
+            "count": 359,
+            "percentage": 85.89
+        }
+    },
+    "2DVN": {
+        "total_count": 372,
+        "N": {
+            "count": 326,
+            "percentage": 87.63
+        },
+        "I": {
+            "count": 46,
+            "percentage": 12.37
+        }
+    },
+    "1F2D": {
+        "total_count": 1364,
+        "N": {
+            "count": 1140,
+            "percentage": 83.58
+        },
+        "I": {
+            "count": 224,
+            "percentage": 16.42
+        }
+    },
+    "2ECQ": {
+        "total_count": 302,
+        "I": {
+            "count": 54,
+            "percentage": 17.88
+        },
+        "N": {
+            "count": 248,
+            "percentage": 82.12
+        }
+    },
+    "3BZL": {
+        "total_count": 219,
+        "N": {
+            "count": 205,
+            "percentage": 93.61
+        },
+        "I": {
+            "count": 14,
+            "percentage": 6.39
+        }
+    },
+    "3LW6": {
+        "total_count": 241,
+        "N": {
+            "count": 204,
+            "percentage": 84.65
+        },
+        "I": {
+            "count": 37,
+            "percentage": 15.35
+        }
+    },
+    "1V2X": {
+        "total_count": 191,
+        "N": {
+            "count": 161,
+            "percentage": 84.29
+        },
+        "I": {
+            "count": 30,
+            "percentage": 15.71
+        }
+    },
+    "2FWV": {
+        "total_count": 190,
+        "I": {
+            "count": 23,
+            "percentage": 12.11
+        },
+        "N": {
+            "count": 167,
+            "percentage": 87.89
+        }
+    },
+    "1EEJ": {
+        "total_count": 432,
+        "N": {
+            "count": 377,
+            "percentage": 87.27
+        },
+        "I": {
+            "count": 55,
+            "percentage": 12.73
+        }
+    },
+    "3F6Q": {
+        "total_count": 241,
+        "N": {
+            "count": 197,
+            "percentage": 81.74
+        },
+        "I": {
+            "count": 44,
+            "percentage": 18.26
+        }
+    },
+    "3FAH": {
+        "total_count": 907,
+        "N": {
+            "count": 783,
+            "percentage": 86.33
+        },
+        "I": {
+            "count": 124,
+            "percentage": 13.67
+        }
+    },
+    "1X7V": {
+        "total_count": 295,
+        "N": {
+            "count": 256,
+            "percentage": 86.78
+        },
+        "I": {
+            "count": 39,
+            "percentage": 13.22
+        }
+    },
+    "2Z1N": {
+        "total_count": 480,
+        "N": {
+            "count": 470,
+            "percentage": 97.92
+        },
+        "I": {
+            "count": 10,
+            "percentage": 2.08
+        }
+    },
+    "2CFT": {
+        "total_count": 292,
+        "N": {
+            "count": 259,
+            "percentage": 88.7
+        },
+        "I": {
+            "count": 33,
+            "percentage": 11.3
+        }
+    },
+    "2EXB": {
+        "total_count": 446,
+        "N": {
+            "count": 368,
+            "percentage": 82.51
+        },
+        "I": {
+            "count": 78,
+            "percentage": 17.49
+        }
+    }
+}
