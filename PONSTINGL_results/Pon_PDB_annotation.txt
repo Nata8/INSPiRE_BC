@@ -3,41 +3,41 @@ Counting monomers...
 --------------------------------------------------
 {
     "1BRY": true,
-    "1URO": false,
+    "1URO": false, /homo-2-mer/
     "1UCH": true,
-    "1BMB": false,
+    "1BMB": false, /monomer, but PISA dimeric/
     "1BG0": true,
     "3SIL": true,
-    "1AVP": false,
+    "1AVP": false, /monomer/
     "1BEA": true,
     "1AKZ": true,
-    "1XGS": false,
+    "1XGS": false, /homo-2-mer/
     "1AHQ": true,
     "1TON": true,
     "2MHR": true,
     "1PJR": true,
-    "2HEX": false,
-    "1BC2": false,
+    "2HEX": false, /homo-5-mer/
+    "1BC2": false, /homo-2-mer/
     "1AUN": true,
-    "1AUA": false,
+    "1AUA": false, /homo-2-mer/
     "1ZIN": true,
-    "1KPT": false,
+    "1KPT": false, /homo-2-mer/
     "1DFF": true,
     "1FEH": true,
     "1AH7": true,
     "2GPR": true,
     "1AMJ": true,
     "2CY3": true,
-    "1MDT": false,
-    "1KFS": false,
-    "1A8O": false,
+    "1MDT": false, /homo-2-mer/
+    "1KFS": false, /monomer/
+    "1A8O": false, /monomer/
     "1DJX": true,
     "1IAE": true,
     "5CP4": true,
     "1AKO": true,
     "2RN2": true,
     "1VJW": true,
-    "1IPS": false,
+    "1IPS": false, /homo-2-mer/
     "1CTJ": true,
     "2MBR": true,
     "1PGS": true,
@@ -47,7 +47,7 @@ Counting monomers...
     "1FDR": true,
     "1PS1": true,
     "1BN8": true,
-    "1BU1": false,
+    "1BU1": false, /homo-6-mer/
     "1RGP": true,
     "2ATJ": true,
     "8PAZ": true,
