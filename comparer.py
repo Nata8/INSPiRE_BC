@@ -1,29 +1,39 @@
 import os
-
-DATASETS_DIR = "datasets/"
-DC_FILES = ["DCBio.txt", "DCxtal.txt"]
-MANY_FILES = ["ManyBio.txt", "ManyXtal.txt"]
+import json
 
 
-def get_duplicates(filename):
-    duplicates = []
-    with open(DATASETS_DIR + filename) as f:
-        lines = [line.split()[0].replace("\n", "").strip() for line in f if not line.startswith("#")]
+def get_content(file_paths: str) -> dict:
+    content = dict()
+    for path in file_paths:
+        if os.path.exists(path):
+            with open(path, 'r') as f:
+                content[path] = [line.split()[0].replace("\n", "").strip().lower() for line in f if not line.startswith("#")]
+        else:
+            print("[Error] Invalid file path ->", path)
+
+    return content
+
+
+def get_duplicates(content: dict) -> list:
+    all_lines = []
+    for lines in content.values():
+        all_lines += lines
+
+    duplicates = dict()
+    for path, lines in content.items():
+        duplicates[path] = dict()
         for index, line in enumerate(lines):
-            if not line.startswith("#"):
-                count = lines.count(line)
-                #print(count)
-                t = (count, line, filename)
-                if count > 1 and t not in duplicates:
-                    duplicates.append(t)
-                    lines[index] = "\n"
+            count = all_lines.count(line)
 
-        if duplicates:
-            with open(DATASETS_DIR + filename, "w") as fw:
-                filtred_lines = filter(lambda value: value != "\n", lines)
-                fw.write("\n".join(filtred_lines))
-    
-    duplicates.sort()
+            if count > 1 and line not in duplicates.values():
+                duplicates[path][line] = lines.count(line)
 
     return duplicates
 
+
+if __name__ == '__main__':
+    while True:
+        file_paths = input("Enter paths to files separated by space >>> ").split()
+        content = get_content(file_paths)
+
+        print(json.dumps(get_duplicates(content), indent=4))
