@@ -29,7 +29,7 @@ Counting monomers...
     "1AMJ": true,
     "2CY3": true,
     "1MDT": false, /homo-2-mer/
-    "1KFS": false, /monomer/
+    "1KFS": false, /monomer, however in PDB file dimer/
     "1A8O": false, /monomer/
     "1DJX": true,
     "1IAE": true,
