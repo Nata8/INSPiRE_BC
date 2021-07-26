@@ -5,7 +5,7 @@ Counting monomers...
     "1BRY": true,
     "1URO": false, /homo-2-mer/
     "1UCH": true,
-    "1BMB": false, /monomer, but PISA dimeric/
+    "1BMB": false, /monomer, however in pdb file - PISA dimeric/
     "1BG0": true,
     "3SIL": true,
     "1AVP": false, /monomer/
@@ -53,19 +53,19 @@ Counting monomers...
     "8PAZ": true,
     "1NP4": true,
     "1FSU": true,
-    "1A19": false,
+    "1A19": false, /homo-2-mer/
     "1CKM": true,
     "1EMA": true,
     "1GCI": true,
     "1AYL": true,
     "1AM6": true,
-    "1CKI": false,
+    "1CKI": false, /homo-2-mer/
     "1YGE": true,
     "1OPS": true,
     "1PPO": true,
     "1KWA": true,
     "1NUC": true,
-    "1AAY": false,
+    "1AAY": false, /monomer, however author determined trimer in pdb file/
     "232L": true,
     "1RHS": true,
     "1DMR": true,
@@ -76,20 +76,20 @@ Counting monomers...
     "1BE0": true,
     "1BWZ": true,
     "1MB1": true,
-    "1BKZ": false,
+    "1BKZ": false, /homo-2-mer/
     "1MH1": true,
     "1MPG": true,
     "2FGF": true,
-    "2BLS": false,
-    "1AYI": false,
+    "2BLS": false, /homo-2-mer/
+    "1AYI": false, /homo-2-mer/
     "1LRV": true,
     "1A0K": true,
-    "1AOH": false,
+    "1AOH": false, /homo-2-mer/
     "3DFR": true,
     "2PTH": true,
     "2ACY": true,
     "1FLP": true,
-    "2ABX": false
+    "2ABX": false /homo-2-mer/
 }
 --------------------------------------------------
 Monomers: 67/88
