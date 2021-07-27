@@ -18,7 +18,7 @@ Counting monomers...
     "2WBM": true,
     "3C1D": true,
     "1YNQ": true,
-    "2CKI": false,
+    "2CKI": false, /homo-2-mer/
     "3LVD": true,
     "3M66": true,
     "2EYI": true,
