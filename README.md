@@ -12,8 +12,8 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 
 *Python scripts:*
 
-`classifier.py` 
-  It divides residues within protein structure into two sets - interface and non interface. Output is a number in each set and its percentage.
+`classifier.py` <br />
+ - It divides residues within protein structure into two sets - interface and non interface. Output is a number in each set and its percentage.
 
 
 
