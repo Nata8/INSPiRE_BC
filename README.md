@@ -22,6 +22,7 @@ Repository created for the purpose of storing/viewing the scripts and results fo
  
  
  `from_ent_to_pdb.py` <br />
+  - Simple script to transform ent files to pdb files.
  
  
  `interface.py` <br />
