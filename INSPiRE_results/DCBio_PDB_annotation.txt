@@ -7,20 +7,20 @@ Counting monomers...
     "2BHS": false,
     "2BZ6": false,
     "2WTM": false,
-    "3A2Q": true,
+    "3A2Q": true, /monomer/
     "2WXD": false,
-    "1P5F": true,
+    "1P5F": true, /homo-2-mer/
     "3ITF": false,
-    "1PKH": true,
-    "2VR4": true,
+    "1PKH": true, /homo-6-mer/
+    "2VR4": true, /monomer/
     "2AQ6": false,
     "2D0D": false,
-    "1UJ6": true,
+    "1UJ6": true, /monomer/
     "3R0N": false,
     "2A5L": false,
     "1UZ3": false,
     "2I7D": false,
-    "1KQ3": true,
+    "1KQ3": true, /monomer/
     "3KD2": false,
     "2AB0": false,
     "2RKB": false,
@@ -33,14 +33,14 @@ Counting monomers...
     "1N8P": false,
     "3O1N": false,
     "1O17": false,
-    "1VK5": true,
-    "1S2Z": true,
-    "3IUE": true,
+    "1VK5": true, /monomer/
+    "1S2Z": true, /monomer/
+    "3IUE": true, /homo-2-mer/
     "1JQ5": false,
-    "1BS1": true,
+    "1BS1": true, /monomer/
     "2C4W": false,
     "3OVP": false,
-    "3H6D": true,
+    "3H6D": true, /homo-3-mer/
     "4U0J": false,
     "2CAR": false,
     "3JYO": false,
@@ -49,32 +49,32 @@ Counting monomers...
     "3EPW": false,
     "1ZLH": false,
     "1QOP": false,
-    "1SML": true,
-    "2NZL": true,
-    "1JU3": true,
+    "1SML": true, /monomer/
+    "2NZL": true, /homo-4-mer/
+    "1JU3": true, /monomer/
     "1LW4": false,
     "1ZE3": false,
     "1R5Y": false,
-    "2VEF": true,
+    "2VEF": true, /monomer/
     "2Y27": false,
-    "1LZL": true,
+    "1LZL": true, /monomer/
     "2G2U": false,
     "2W6A": false,
-    "3DA8": true,
+    "3DA8": true, /homo-2-mer/
     "2DVN": false,
     "1F2D": false,
     "2ECQ": false,
     "3BZL": false,
-    "3LW6": true,
+    "3LW6": true, /monomer/
     "1V2X": false,
-    "2FWV": true,
+    "2FWV": true, /homo-2-mer/
     "1EEJ": false,
     "3F6Q": false,
-    "3FAH": true,
-    "1X7V": true,
-    "2Z1N": true,
+    "3FAH": true, /monomer/
+    "1X7V": true, /monomer/
+    "2Z1N": true, /monomer/
     "2CFT": false,
-    "2EXB": true
+    "2EXB": true  /monomer/
 }
 --------------------------------------------------
 Monomers: 23/72
