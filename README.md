@@ -10,5 +10,12 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 [MakeMultimer](http://watcut.uwaterloo.ca/tools/makemultimer/) <br />
 [Pandas](https://pandas.pydata.org/)
 
+*Python scripts:*
+
+`classifier.py` 
+  It divides residues within protein structure into two sets - interface and non interface. Output is a number in each set and its percentage.
+
+
+
 
 
