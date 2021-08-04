@@ -5,10 +5,10 @@ Counting monomers...
     "1BRY": true,
     "1URO": false, /homo-2-mer/
     "1UCH": true,
-    "1BMB": false, /monomer, however in pdb file - PISA dimeric **with small peptide**/
+    "1BMB": false, /monomer, however in pdb file - PISA dimeric with small peptide/
     "1BG0": true,
     "3SIL": true,
-    "1AVP": false, /monomer/
+    "1AVP": false, /monomer, in pdb file dimeric - with small peptide/
     "1BEA": true,
     "1AKZ": true,
     "1XGS": false, /homo-2-mer/
@@ -29,7 +29,7 @@ Counting monomers...
     "1AMJ": true,
     "2CY3": true,
     "1MDT": false, /homo-2-mer/
-    "1KFS": false, /monomer, however in PDB file dimer/
+    "1KFS": false, /monomer, however in PDB file dimer with DNA/
     "1A8O": false, /monomer/
     "1DJX": true,
     "1IAE": true,
@@ -65,7 +65,7 @@ Counting monomers...
     "1PPO": true,
     "1KWA": true,
     "1NUC": true,
-    "1AAY": false, /monomer, however author determined trimer in pdb file/
+    "1AAY": false, /monomer, in pdb file trimer complex with DNA/
     "232L": true,
     "1RHS": true,
     "1DMR": true,
