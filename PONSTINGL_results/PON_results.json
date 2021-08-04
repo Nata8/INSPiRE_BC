@@ -10,17 +10,6 @@
             "percentage": 4.25
         }
     },
-    "1URO": {
-        "total_count": 357,
-        "I": {
-            "count": 46,
-            "percentage": 12.89
-        },
-        "N": {
-            "count": 311,
-            "percentage": 87.11
-        }
-    },
     "1UCH": {
         "total_count": 206,
         "N": {
@@ -98,17 +87,6 @@
             "percentage": 6.73
         }
     },
-    "1XGS": {
-        "total_count": 590,
-        "I": {
-            "count": 89,
-            "percentage": 15.08
-        },
-        "N": {
-            "count": 501,
-            "percentage": 84.92
-        }
-    },
     "1AHQ": {
         "total_count": 133,
         "N": {
@@ -153,28 +131,6 @@
             "percentage": 10.75
         }
     },
-    "2HEX": {
-        "total_count": 281,
-        "N": {
-            "count": 196,
-            "percentage": 69.75
-        },
-        "I": {
-            "count": 85,
-            "percentage": 30.25
-        }
-    },
-    "1BC2": {
-        "total_count": 432,
-        "N": {
-            "count": 430,
-            "percentage": 99.54
-        },
-        "I": {
-            "count": 2,
-            "percentage": 0.46
-        }
-    },
     "1AUN": {
         "total_count": 208,
         "I": {
@@ -186,17 +142,6 @@
             "percentage": 79.81
         }
     },
-    "1AUA": {
-        "total_count": 296,
-        "N": {
-            "count": 263,
-            "percentage": 88.85
-        },
-        "I": {
-            "count": 33,
-            "percentage": 11.15
-        }
-    },
     "1ZIN": {
         "total_count": 217,
         "I": {
@@ -206,17 +151,6 @@
         "N": {
             "count": 185,
             "percentage": 85.25
-        }
-    },
-    "1KPT": {
-        "total_count": 210,
-        "I": {
-            "count": 30,
-            "percentage": 14.29
-        },
-        "N": {
-            "count": 180,
-            "percentage": 85.71
         }
     },
     "1DFF": {
@@ -283,17 +217,6 @@
         "I": {
             "count": 9,
             "percentage": 7.63
-        }
-    },
-    "1MDT": {
-        "total_count": 1046,
-        "N": {
-            "count": 911,
-            "percentage": 87.09
-        },
-        "I": {
-            "count": 135,
-            "percentage": 12.91
         }
     },
     "1KFS": {
