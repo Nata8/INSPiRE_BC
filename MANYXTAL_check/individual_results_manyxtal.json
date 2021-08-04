@@ -133,17 +133,6 @@
             "percentage": 100.0
         }
     },
-    "1G9Q": {
-        "total_count": 407,
-        "N": {
-            "count": 206,
-            "percentage": 50.61
-        },
-        "I": {
-            "count": 201,
-            "percentage": 49.39
-        }
-    },
     "1FCZ": {
         "total_count": 235,
         "N": {
@@ -162,28 +151,10 @@
             "percentage": 3.47
         }
     },
-    "1GRN": {
-        "total_count": 388,
-        "N": {
-            "count": 317,
-            "percentage": 81.7
-        },
-        "I": {
-            "count": 71,
-            "percentage": 18.3
-        }
-    },
     "1FMI": {
         "total_count": 456,
         "N": {
             "count": 456,
-            "percentage": 100.0
-        }
-    },
-    "1FX4": {
-        "total_count": 231,
-        "N": {
-            "count": 231,
             "percentage": 100.0
         }
     },
@@ -192,28 +163,6 @@
         "N": {
             "count": 137,
             "percentage": 100.0
-        }
-    },
-    "1GFS": {
-        "total_count": 317,
-        "N": {
-            "count": 282,
-            "percentage": 88.96
-        },
-        "I": {
-            "count": 35,
-            "percentage": 11.04
-        }
-    },
-    "1G5R": {
-        "total_count": 157,
-        "I": {
-            "count": 11,
-            "percentage": 7.01
-        },
-        "N": {
-            "count": 146,
-            "percentage": 92.99
         }
     },
     "1G9B": {
@@ -270,17 +219,6 @@
         "N": {
             "count": 264,
             "percentage": 100.0
-        }
-    },
-    "1GEC": {
-        "total_count": 219,
-        "N": {
-            "count": 195,
-            "percentage": 89.04
-        },
-        "I": {
-            "count": 24,
-            "percentage": 10.96
         }
     }
 }
