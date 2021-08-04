@@ -1,0 +1,13 @@
+DCbio:
+
+Average -> 16.73
+Max -> 56.25
+Min -> 2.82
+Proteins Count -> 57
+
+DCxtal:
+
+Average -> 9.68
+Max -> 18.84
+Min -> 0
+Proteins Count -> 93
