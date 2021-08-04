@@ -1,41 +1,41 @@
 Counting monomers...
 --------------------------------------------------
 {
-    "1GL4": false,
-    "1G5C": false,
+    "1GL4": false, /hetero-2-mer/
+    "1G5C": false, /homo-2-mer/
     "1G55": true,
     "1FFH": true,
-    "1FFY": false,
+    "1FFY": false, /in PDB monomer, in pdb file dimeric with ISOLEUCYL-TRNA/
     "1G68": true,
     "1F00": true,
     "1FIO": true,
     "1GHR": true,
     "1FL2": true,
-    "1FT1": false,
+    "1FT1": false, /hetero-2-mer/
     "1F7S": true,
     "1FQB": true,
     "1FBN": true,
     "1GQB": true,
     "1F48": true,
-    "1GXR": false,
-    "1FF9": false,
-    "1GO4": false,
+    "1GXR": false, /homo-2-mer/
+    "1FF9": false, /homo-2-mer/
+    "1GO4": false, /without remark 350 information/
     "1FLJ": true,
     "1G7S": true,
     "1FCK": true,
     "1GOJ": true,
-    "1GS5": false,
+    "1GS5": false, /homo-2-mer/
     "1GQ8": true,
     "1GSO": true,
-    "1G9Q": false,
+    "1G9Q": false, /homo-2-mer/
     "1FCZ": true,
     "1FID": true,
-    "1GRN": false,
+    "1GRN": false, /hetero-2-mer/
     "1FMI": true,
-    "1FX4": false,
+    "1FX4": false, /homo-2-mer/
     "1GAK": true,
-    "1GFS": false,
-    "1G5R": false,
+    "1GFS": false, /homo-2-mer/
+    "1G5R": false, /homo-2-mer/
     "1G9B": true,
     "1F20": true,
     "1G3P": true,
@@ -44,7 +44,7 @@ Counting monomers...
     "1FTS": true,
     "1F9P": true,
     "1FVI": true,
-    "1GEC": false
+    "1GEC": false /monomer, in pdb dimer with BENZYLOXYCARBONYL-LEUCINE-VALINE-GLYCINE-METHYLENE/
 }
 --------------------------------------------------
 Monomer: 30/44
