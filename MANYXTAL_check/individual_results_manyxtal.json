@@ -1,26 +1,4 @@
 {
-    "1GL4": {
-        "total_count": 362,
-        "N": {
-            "count": 306,
-            "percentage": 84.53
-        },
-        "I": {
-            "count": 56,
-            "percentage": 15.47
-        }
-    },
-    "1G5C": {
-        "total_count": 978,
-        "N": {
-            "count": 597,
-            "percentage": 61.04
-        },
-        "I": {
-            "count": 381,
-            "percentage": 38.96
-        }
-    },
     "1G55": {
         "total_count": 313,
         "N": {
@@ -33,17 +11,6 @@
         "N": {
             "count": 287,
             "percentage": 100.0
-        }
-    },
-    "1FFY": {
-        "total_count": 917,
-        "N": {
-            "count": 827,
-            "percentage": 90.19
-        },
-        "I": {
-            "count": 90,
-            "percentage": 9.81
         }
     },
     "1G68": {
@@ -85,17 +52,6 @@
             "percentage": 3.23
         }
     },
-    "1FT1": {
-        "total_count": 731,
-        "N": {
-            "count": 525,
-            "percentage": 71.82
-        },
-        "I": {
-            "count": 206,
-            "percentage": 28.18
-        }
-    },
     "1F7S": {
         "total_count": 124,
         "N": {
@@ -135,39 +91,6 @@
             "percentage": 100.0
         }
     },
-    "1GXR": {
-        "total_count": 659,
-        "I": {
-            "count": 62,
-            "percentage": 9.41
-        },
-        "N": {
-            "count": 597,
-            "percentage": 90.59
-        }
-    },
-    "1FF9": {
-        "total_count": 447,
-        "N": {
-            "count": 410,
-            "percentage": 91.72
-        },
-        "I": {
-            "count": 37,
-            "percentage": 8.28
-        }
-    },
-    "1GO4": {
-        "total_count": 1146,
-        "N": {
-            "count": 678,
-            "percentage": 59.16
-        },
-        "I": {
-            "count": 468,
-            "percentage": 40.84
-        }
-    },
     "1FLJ": {
         "total_count": 259,
         "N": {
@@ -194,17 +117,6 @@
         "N": {
             "count": 354,
             "percentage": 100.0
-        }
-    },
-    "1GS5": {
-        "total_count": 258,
-        "N": {
-            "count": 213,
-            "percentage": 82.56
-        },
-        "I": {
-            "count": 45,
-            "percentage": 17.44
         }
     },
     "1GQ8": {
