@@ -1,0 +1,4 @@
+Average -> 11.95
+Max -> 23.02
+Min -> 0
+Proteins Count -> 68
