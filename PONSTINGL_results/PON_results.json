@@ -307,17 +307,6 @@
             "percentage": 13.56
         }
     },
-    "1IPS": {
-        "total_count": 656,
-        "N": {
-            "count": 650,
-            "percentage": 99.09
-        },
-        "I": {
-            "count": 6,
-            "percentage": 0.91
-        }
-    },
     "1CTJ": {
         "total_count": 89,
         "N": {
@@ -413,17 +402,6 @@
             "percentage": 16.29
         }
     },
-    "1BU1": {
-        "total_count": 339,
-        "N": {
-            "count": 274,
-            "percentage": 80.83
-        },
-        "I": {
-            "count": 65,
-            "percentage": 19.17
-        }
-    },
     "1RGP": {
         "total_count": 189,
         "N": {
@@ -479,17 +457,6 @@
             "percentage": 13.68
         }
     },
-    "1A19": {
-        "total_count": 178,
-        "N": {
-            "count": 158,
-            "percentage": 88.76
-        },
-        "I": {
-            "count": 20,
-            "percentage": 11.24
-        }
-    },
     "1CKM": {
         "total_count": 634,
         "N": {
@@ -543,17 +510,6 @@
         "I": {
             "count": 25,
             "percentage": 9.69
-        }
-    },
-    "1CKI": {
-        "total_count": 578,
-        "N": {
-            "count": 494,
-            "percentage": 85.47
-        },
-        "I": {
-            "count": 84,
-            "percentage": 14.53
         }
     },
     "1YGE": {
@@ -732,17 +688,6 @@
             "percentage": 11.22
         }
     },
-    "1BKZ": {
-        "total_count": 270,
-        "N": {
-            "count": 228,
-            "percentage": 84.44
-        },
-        "I": {
-            "count": 42,
-            "percentage": 15.56
-        }
-    },
     "1MH1": {
         "total_count": 183,
         "N": {
@@ -776,28 +721,6 @@
             "percentage": 23.02
         }
     },
-    "2BLS": {
-        "total_count": 714,
-        "N": {
-            "count": 652,
-            "percentage": 91.32
-        },
-        "I": {
-            "count": 62,
-            "percentage": 8.68
-        }
-    },
-    "1AYI": {
-        "total_count": 86,
-        "N": {
-            "count": 77,
-            "percentage": 89.53
-        },
-        "I": {
-            "count": 9,
-            "percentage": 10.47
-        }
-    },
     "1LRV": {
         "total_count": 233,
         "N": {
@@ -818,17 +741,6 @@
         "I": {
             "count": 17,
             "percentage": 13.08
-        }
-    },
-    "1AOH": {
-        "total_count": 290,
-        "N": {
-            "count": 236,
-            "percentage": 81.38
-        },
-        "I": {
-            "count": 54,
-            "percentage": 18.62
         }
     },
     "3DFR": {
@@ -873,17 +785,6 @@
         "I": {
             "count": 19,
             "percentage": 13.38
-        }
-    },
-    "2ABX": {
-        "total_count": 148,
-        "N": {
-            "count": 121,
-            "percentage": 81.76
-        },
-        "I": {
-            "count": 27,
-            "percentage": 18.24
         }
     }
 }
