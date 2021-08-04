@@ -1,8 +1,8 @@
 
-DCxtal:
+DCxtal (1) :
   2CKI moved to DCbio
   
-DCbio:
+DCbio (16) :
   3A2Q moved to DCxtal
   2VR4
   1UJ6
@@ -19,3 +19,26 @@ DCbio:
   1X7V
   2Z1N
   2EXB
+  
+Ponstingl: (removed)
+  1URO
+  1XGS
+  2HEX
+  1BC2
+  1AUA
+  1KPT
+  1MDT
+  1IPS
+  1BU1
+  1A19
+  1CKI
+  1BKZ
+  2BLS
+  1AYI
+  1AOH
+  2ABX
+  1BMB with small peptide
+  1AVP with small peptide
+  1KFS with DNA
+  1AAY with DNA
+  
