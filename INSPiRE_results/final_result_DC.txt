@@ -72,7 +72,7 @@ Proteins Count -> 93
 Found monomers - 32 with threshold 12
 --------------------------------------------------
 
- "2J46",
+    "2J46",
     "2X26",
     "3FWK",
     "1NDB",
