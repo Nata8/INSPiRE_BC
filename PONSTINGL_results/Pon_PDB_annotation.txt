@@ -5,7 +5,7 @@ Counting monomers...
     "1BRY": true,
     "1URO": false, /homo-2-mer/
     "1UCH": true,
-    "1BMB": false, /monomer, however in pdb file - PISA dimeric/
+    "1BMB": false, /monomer, however in pdb file - PISA dimeric **with small peptide**/
     "1BG0": true,
     "3SIL": true,
     "1AVP": false, /monomer/
