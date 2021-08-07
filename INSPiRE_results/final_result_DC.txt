@@ -1,5 +1,11 @@
 DCBio
 
+Average "N" percentage -> 16.77
+Max -> 56.25
+Min -> 2.82
+Proteins Count -> 56
+
+
 [
     "1P5F",
     "1PKH",
