@@ -1,5 +1,5 @@
 Using method EPPIC version 3.2.0 on dataset DCbio. All 72 proteins are oligomers. B stands for biological interface and K for crystallographic interface. 
-The third column expresses the estimated number of interfaces
+The third column expresses the estimated number of interfaces.
 ___________________________________________________________________
 
 2fwv 	B	1
@@ -10,7 +10,6 @@ ___________________________________________________________________
 1jq5 	B	1
 4u0j 	B	3
 2nzl 	B	1
-1uj6 	B	1
 1ju3 	K	x
 1sml 	K	x
 3fah 	B	1
@@ -18,14 +17,12 @@ ___________________________________________________________________
 3iue 	B	1
 1vk5 	B	1
 2exb 	B	1
-3a2q 	B	1
 3h6d 	B	1
 1s2z 	B	2
 2z1n 	B	4
 2vef 	B	1
 1bs1 	B	1
 3lw6	B	1
-2vr4	B	1
 1x7v	B	2
 1f2d 	B	2
 1lw4 	B	2
