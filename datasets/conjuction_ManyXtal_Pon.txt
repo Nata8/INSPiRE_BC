@@ -1,6 +1,9 @@
+In order to get disjunct datasets ManyXtal and Ponstingl, it should be checked whether there are PDB ids duplicates. 
+
+
 {
     "INSPiRE_BC-main/datasets/ManyXtal.txt": {
-        "1c3d": 1,
+        "1c3d": 1, (one 1c3d in ManyXtal and one 1c3d in Ponstingl)
         "1bgc": 1,
         "2end": 1,
         "1pda": 1,
@@ -10,10 +13,10 @@
         "1inp": 1
     },
     "INSPiRE_BC-main/datasets/Ponstingl_00_03.txt": {
-        "1a19": 2,
+        "1a19": 2, (two occurences of 1a19 in Ponstingl)
         "1a6q": 2,
         "1a8o": 2,
-        "1af7": 1,
+        "1af7": 1, (one 1af7 in Ponstingl and one 1af7 in ManyXtal)
         "1afk": 2,
         "1ah7": 2,
         "1ako": 2,
