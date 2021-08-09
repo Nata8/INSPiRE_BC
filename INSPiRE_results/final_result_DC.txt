@@ -18,7 +18,7 @@ Proteins Count -> 56
     "2CFT"
 ]
 --------------------------------------------------
-Found - 9 monomers with threshold 12
+Found - 9 monomers with threshold 11.95
 --------------------------------------------------
 
 
@@ -62,5 +62,5 @@ Proteins Count -> 77
     "3CJ1"
 ]
 --------------------------------------------------
-Found - 29 monomers with threshold 12
+Found - 29 monomers with threshold 11.95
 --------------------------------------------------
