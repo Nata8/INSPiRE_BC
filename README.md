@@ -23,10 +23,13 @@ Repository created for the purpose of storing/viewing the scripts and results fo
  - It divides residues within protein structure into two sets - interface and non interface. Output is a number of each set and its percentage.
  
  `remark.py` <br />
-  It searches for monomers from PDB structures based on information from REMARK 350. 
-  The input is the path to a single pdb file or to a directory with multiple pdb files. The result is a file with a binary classification - true/false. 
+  - It searches for monomers from PDB structures based on information from REMARK 350. 
+    The input is the path to a single pdb file or to a directory with multiple pdb files. The result is a file with a binary classification - true/false. 
 
  `csvparser.py` <br />
+  - The output of INSPiRE is a csv file with the residue and its classification on each line. Based on the information from the aforementioned csv file,
+    this script determines the absolute and relative numbers of "N" and "I" in each protein structure. The result can be saved  to the selected directory 
+    in json format.
  
  
  `from_ent_to_pdb.py` <br />
