@@ -35,10 +35,14 @@ Repository created for the purpose of storing/viewing the scripts and results fo
   - Simple exploration of the resulting data from csv_parser.py. The output shows the number of protein structures, the average percentage of "I" residues 
     in the structures, the maximum and minimum of the relative "I" counts.
  
+ `classifier.py` <br />
+  - Classifies structures from the output file created by the csv_parser.py script based on the threshold that is set as a global variable. 
+    The result is the number and list of complexes that are evaluated as not containing a biological interface.
+  
  `from_ent_to_pdb.py` <br />
   - Simple script to transform ent files to pdb files.
  
- `interface.py` <br />
+
  
  
 
