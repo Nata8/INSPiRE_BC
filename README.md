@@ -31,10 +31,12 @@ Repository created for the purpose of storing/viewing the scripts and results fo
     this script determines the absolute and relative numbers of "N" and "I" in each protein structure. The result can be saved  to the selected directory 
     in json format.
  
+ `statistics.py` <br />
+  - Simple exploration of the resulting data from csv_parser.py. The output shows the number of protein structures, the average percentage of "I" residues 
+    in the structures, the maximum and minimum of the relative "I" counts.
  
  `from_ent_to_pdb.py` <br />
   - Simple script to transform ent files to pdb files.
- 
  
  `interface.py` <br />
  
@@ -45,7 +47,7 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 
  
  
- `statistics.py` <br />
+
 
 
 
