@@ -1,9 +1,9 @@
 
-DCxtal (1) :
-  2CKI moved to DCbio
+DCxtal (1) : (removed)
+  2CKI 
   
-DCbio (16) :
-  3A2Q moved to DCxtal
+DCbio (16) : (removed)
+  3A2Q 
   2VR4
   1UJ6
   1KQ3
