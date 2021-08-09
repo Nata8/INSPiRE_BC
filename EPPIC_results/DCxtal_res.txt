@@ -1,5 +1,5 @@
-Using method EPPIC version 3.2.0 on dataset DCxtal. All 78 proteins are monomers. B stands for biological interface and K for crystallographic interface. 
-Results - 58 inputs determined correctly, 20 inputs determined incorrectly = 74.36% accuracy
+Using method EPPIC version 3.2.0 on dataset DCxtal. All 77 proteins are monomers. B stands for biological interface and K for crystallographic interface. 
+Results - 57 inputs determined correctly, 20 inputs determined incorrectly = 74.03% accuracy
 ____________________________________________________________________________________________________
 
 1ejd	B
@@ -16,7 +16,6 @@ ________________________________________________________________________________
 1wly	B
 1xgk	K
 1ynq	K
-2cki	K
 2eyi	K
 2f37	K
 2gas	K
