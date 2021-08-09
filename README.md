@@ -36,7 +36,7 @@ Repository created for the purpose of storing/viewing the scripts and results fo
     in the structures, the maximum and minimum of the relative "I" counts.
  
  `classifier.py` <br />
-  - Classifies structures from the output file created by the csv_parser.py script based on the threshold that is set as a global variable. 
+  - It classifies structures from the output file created by the csv_parser.py script based on the threshold that is set as a global variable. 
     The result is the number and list of complexes that are evaluated as not containing a biological interface.
   
  `from_ent_to_pdb.py` <br />
