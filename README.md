@@ -7,7 +7,6 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 [Python version 3.7.9](https://www.python.org/) <br />
 [Biopython](https://biopython.org/) <br />
 [EPPIC](https://www.eppic-web.org/ewui/) <br />
-[MakeMultimer](http://watcut.uwaterloo.ca/tools/makemultimer/) <br />
 [Pandas](https://pandas.pydata.org/)
 
 
