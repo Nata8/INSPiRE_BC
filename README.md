@@ -54,7 +54,8 @@ Repository created for the purpose of storing/viewing the scripts and results fo
   -  [DC and Many](https://github.com/eppic-team/datasets/tree/master/data) <br />
   -  [Ponstingl](https://onlinelibrary.wiley.com/doi/10.1002/1097-0134%2820001001%2941%3A1%3C47%3A%3AAID-PROT80%3E3.0.CO%3B2-8) <br />
   
-  **INSPiRE pipeline**
+  
+  <span style="color:blue"> **INSPiRE pipeline:** </span>
   
   You can find applied INSPiRE commands in this [file](https://github.com/Nata8/INSPiRE_BC/blob/main/INSPiRE_results/working_with_INSPiRE.md)
   
