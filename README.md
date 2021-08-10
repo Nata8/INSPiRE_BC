@@ -1,16 +1,16 @@
 # INSPiRE_BC
 
 Repository created for the purpose of storing/viewing the scripts and results for bachelor thesis **`"Identification of crystal packing contacts using a method for detection of protein-protein interaction sites"`**. 
-
+<br />
 **REQUIREMENTS:** <br />
 [INSPiRE](https://github.com/Jelinek-J/INSPiRE) <br />
 [Python version 3.7.9](https://www.python.org/) <br />
 [Biopython](https://biopython.org/) <br />
 [EPPIC](https://www.eppic-web.org/ewui/) <br />
 [Pandas](https://pandas.pydata.org/)
-
-
-
+<br />
+<br />
+<br />
 **Python scripts:**
 
 `pdbdownloader.py` <br />
@@ -45,9 +45,9 @@ Repository created for the purpose of storing/viewing the scripts and results fo
  `eppicdownloader.py` <br />
   - It downloads assemblies from EPPIC tool. Input is pdb identifier, its assembly numeric identifier and destination directory to save. 
     The resulting assemblies are in cif format.
-    
-    
-    
+    <br />
+    <br />
+  <br />
  **DATASETS:**
     
   Datasets (`Ponstingl, DC and Many`) are stored in [dataset directory](https://github.com/Nata8/INSPiRE_BC/tree/main/datasets). <br />
@@ -55,15 +55,17 @@ Repository created for the purpose of storing/viewing the scripts and results fo
   Original sources <br />
   -  [DC and Many](https://github.com/eppic-team/datasets/tree/master/data) <br />
   -  [Ponstingl](https://onlinelibrary.wiley.com/doi/10.1002/1097-0134%2820001001%2941%3A1%3C47%3A%3AAID-PROT80%3E3.0.CO%3B2-8) <br />
-  
-  
+  <br />
+  <br />
+  <br />
   **INSPiRE pipeline:**
   
   You can find applied INSPiRE commands in this [file](https://github.com/Nata8/INSPiRE_BC/blob/main/INSPiRE_results/working_with_INSPiRE.md)
   
   For more infor type `man inspire`
-    
-    
+  <br />
+    <br />
+    <br />
   **RESULTS:**
   - from classifier `EPPIC` using DC dataset are in this [directory](https://github.com/Nata8/INSPiRE_BC/tree/main/EPPIC_results) <br />
   - from classifier `INSPiRE`: <br />
