@@ -45,6 +45,15 @@ Repository created for the purpose of storing/viewing the scripts and results fo
  `eppicdownloader.py` <br />
   - It downloads assemblies from EPPIC tool. Input is pdb identifier, its assembly numeric identifier and destination directory to save. The resulting
     assemblies are in cif format.
+    
+    
+    *DATASETS:*
+    
+    Datasets (`Ponstingl, Many and DC`) are stored in [dataset directory](https://github.com/Nata8/INSPiRE_BC/tree/main/datasets).
+    
+    
+    
+    <br /> 
    
  
 
