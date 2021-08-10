@@ -55,8 +55,11 @@ Repository created for the purpose of storing/viewing the scripts and results fo
   -  [Ponstingl](https://onlinelibrary.wiley.com/doi/10.1002/1097-0134%2820001001%2941%3A1%3C47%3A%3AAID-PROT80%3E3.0.CO%3B2-8) <br />
   
     
-    
-    
+  **RESULTS:**
+  - from classifier `EPPIC` using DC dataset are in this [directory](https://github.com/Nata8/INSPiRE_BC/tree/main/EPPIC_results) <br />
+  - from classifier `INSPiRE`: <br />
+        using Many dataset - this [directory](https://github.com/Nata8/INSPiRE_BC/tree/main/MANYXTAL_check) <br />
+        using DC dataset - this [directory](https://github.com/Nata8/INSPiRE_BC/tree/main/INSPiRE_results) <br />
 
  
 
