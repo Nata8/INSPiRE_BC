@@ -1,6 +1,6 @@
 DCBio
 
-Average "N" percentage -> 16.77
+Average "I" percentage -> 16.77
 Max -> 56.25
 Min -> 2.82
 Proteins Count -> 56
@@ -24,7 +24,7 @@ Found - 9 monomers with threshold 11.95
 
 DCXtal
 
-Average "N" percentage -> 9.39
+Average "I" percentage -> 9.39
 Max -> 18.84
 Min -> 0
 Proteins Count -> 77
