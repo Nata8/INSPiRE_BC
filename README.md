@@ -43,8 +43,8 @@ Repository created for the purpose of storing/viewing the scripts and results fo
   - Simple script to transform ent files to pdb files.
   
  `eppicdownloader.py` <br />
-  - It downloads assemblies from EPPIC tool. Input is pdb identifier, its assembly numeric identifier and destination directory to save. The resulting
-    assemblies are in cif format.
+  - It downloads assemblies from EPPIC tool. Input is pdb identifier, its assembly numeric identifier and destination directory to save. 
+    The resulting assemblies are in cif format.
     
     
  **DATASETS:**
