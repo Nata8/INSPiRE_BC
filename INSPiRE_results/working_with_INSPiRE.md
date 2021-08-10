@@ -14,7 +14,7 @@ For more info enter **man inspire**.
 
 1. Creating a knowledge-base
    
-   **cd INSPiRE/src**
+   **cd INSPiRE/src** <br>
    **inspire -s <path_to_dataset> -xknowledge_base -kknowledge_base -m**
    
 2. Finding residues at a maximum distance 6Å from another chain and they create biological interface
