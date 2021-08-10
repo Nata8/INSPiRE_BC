@@ -14,12 +14,15 @@ For more info enter **man inspire**.
 
 1. Creating a knowledge-base
    
-   **inspire -s Datasets/Many -xknowledge_base -kknowledge_base -m**
+   **cd INSPiRE/src**
+   **inspire -s <path_to_dataset> -xknowledge_base -kknowledge_base -m**
    
 2. Finding residues at a maximum distance 6Å from another chain and they create biological interface
-  
-   **features knowledge_base/residues.ind knowledge_base/interfaces-0-6.tur "-iknowledge_base/radiuses.rus;6" ~/Desktop/Datasets/Many**
-  
+
+   **features knowledge_base/residues.ind knowledge_base/interfaces-0-6.tur "-iknowledge_base/radiuses.rus;6" <path_to_dataset>**
+   
+   Then it is needed to remove the original interfaces.tur and replace (rename) it with the new interfaces-0-6.tur
+   
 3. Test part 
   
-    **inspire -s Datasets/DCXtal -kINSPiRE/src/knowledge_base -qresults**
+    **inspire -s <path_to_dataset> -kknowledge_base -qresults**
