@@ -8,7 +8,7 @@ def get_assembly_id():
 
 
 def get_ids():
-    ids_string = input("Enter protein ids to download separated by space character >>> ")
+    ids_string = input("Enter destination directory to save assemblies >>> ")
 
     return [protein_id.lower() for protein_id in ids_string.split()]
 
