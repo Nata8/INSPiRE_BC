@@ -11,7 +11,7 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 [Pandas](https://pandas.pydata.org/)
 
 
-*Python scripts:*
+**Python scripts:**
 
 `pdbdownloader.py` <br />
  - It downloads protein structures from PDB database. The input is a file with pdb ids and path to storage.
@@ -47,9 +47,9 @@ Repository created for the purpose of storing/viewing the scripts and results fo
     assemblies are in cif format.
     
     
-    *DATASETS:*
+ **DATASETS:**
     
-    Datasets (`Ponstingl, Many and DC`) are stored in [dataset directory](https://github.com/Nata8/INSPiRE_BC/tree/main/datasets).
+  Datasets (`Ponstingl, Many and DC`) are stored in [dataset directory](https://github.com/Nata8/INSPiRE_BC/tree/main/datasets).
     
     
     
