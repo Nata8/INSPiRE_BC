@@ -2,7 +2,7 @@
 
 Repository created for the purpose of storing/viewing the scripts and results for bachelor thesis **`"Identification of crystal packing contacts using a method for detection of protein-protein interaction sites"`**. <br />
 <br />
-**REQUIREMENTS:** <br /> (you do not have to install it, if you are using virtual environmnet)
+**REQUIREMENTS:** (you do not have to install it, if you are using virtual environmnet) <br />
 [INSPiRE](https://github.com/Jelinek-J/INSPiRE) <br />
 [Python version 3.7.9](https://www.python.org/) <br />
 [Biopython](https://biopython.org/) <br />
