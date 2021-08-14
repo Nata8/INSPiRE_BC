@@ -25,8 +25,6 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 <br />
 <br />
 <br />
-
-
 **Python scripts:**
 
 `pdbdownloader.py` <br />
