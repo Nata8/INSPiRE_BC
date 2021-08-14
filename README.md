@@ -2,7 +2,7 @@
 
 Repository created for the purpose of storing/viewing the scripts and results for bachelor thesis **`"Identification of crystal packing contacts using a method for detection of protein-protein interaction sites"`**. <br />
 <br />
-**REQUIREMENTS:** <br />
+**REQUIREMENTS:** <br /> (you do not have to install it, if you are using virtual environmnet)
 [INSPiRE](https://github.com/Jelinek-J/INSPiRE) <br />
 [Python version 3.7.9](https://www.python.org/) <br />
 [Biopython](https://biopython.org/) <br />
@@ -12,8 +12,16 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 <br />
 **RUN THIS REPOSITORY (COPY & PASTE)**
  
-- clone this repository
- `git clone https://github.com/Nata8/INSPiRE_BC.git`
+- clone whole repository from GitHub: <br />
+ `git clone https://github.com/Nata8/INSPiRE_BC.git`<br />
+- navigate to the repository: <br />
+ `cd INSPiRE_BC` <br />
+- active your virtual environment: <br />
+ `source env/bin/activate` <br /> 
+- run python scripts: <br />
+`python3 <script_name>` <br />
+- deactivate the virtual environment: <br />
+`deactivate`
 <br />
 <br />
 <br />
@@ -48,7 +56,7 @@ Repository created for the purpose of storing/viewing the scripts and results fo
     The result is the number and list of complexes that are evaluated as not containing a biological interface.
   
  `from_ent_to_pdb.py` <br />
-  - Simple script to transform ent files to pdb files.
+  - Simple script to transform ent files to pdb files. NOTICE - path to file is set as global variable, it is necessary to set this variable before use.
   
  `eppicdownloader.py` <br />
   - It downloads assemblies from EPPIC tool. Input is pdb identifier, its assembly numeric identifier and destination directory to save. 
