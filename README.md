@@ -10,7 +10,14 @@ Repository created for the purpose of storing/viewing the scripts and results fo
 [Pandas](https://pandas.pydata.org/)
 <br />
 <br />
+** RUN THIS REPOSITORY (COPY & PASTE)
+ 
+- clone this repository
+ `git clone https://github.com/Nata8/INSPiRE_BC.git`
 <br />
+<br />
+<br />
+
 
 **Python scripts:**
 
